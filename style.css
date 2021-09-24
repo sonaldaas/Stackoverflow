@@ -52,7 +52,7 @@ border-bottom-left-radius:6px;
   background-color:#F6BE00;
   margin-left:1px;
   margin-top:156px;
-z-index:-1;
+  z-index:-1;
 }
  .square5{
  border-top-right-radius: 7px;
@@ -64,6 +64,7 @@ border-top-left-radius:7px;
   top:450px;
   position:absolute;
   right:50px;
+  
 }
 
 .square6{
@@ -72,10 +73,11 @@ border-bottom-left-radius:7px;
 border-bottom-right-radius:7px;
   height: 70px;
   width: 70px;
-  background-color:orange;
-  top:515px;
+  background-color:#FFDC80;
+  top:520px;
   position:absolute;
   right:-20px;
+  z-index:-1;
 }
 
 .margin1
